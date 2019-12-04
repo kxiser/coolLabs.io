@@ -1,0 +1,133 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body 
+    font-family $primaryFont
+h1 
+    font-size 2em
+    font-weight 600
+h2
+    font-size 1.65rem
+    font-weight 600
+h3
+    font-size 1.35rem
+    font-weight 600
+ul
+    list-style disc
+    padding-left 1.2em
+
+a, p a code 
+    color $accentColor
+
+.fontsmallcaps
+    font-variant small-caps
+.button
+    transition 0.2s
+    font-variant small-caps
+.home
+    padding 3.6rem 0 0 !important
+    max-width 100% !important
+
+.home .hero
+    display none !important
+
+.bg-coollabs
+    background-color $backgroundColor
+
+.text-coollabs
+    color #8bd94f
+
+.text-coollabs-dark
+    color $backgroundColor
+
+.border-coollabs 
+    border-bottom-color #8bd94f
+
+.content:not(.custom)
+    max-width 740px !important
+    padding 2rem !important
+
+.sidebar
+    background-color $backgroundColor !important
+    border none !important
+    @media screen and (min-width: $MQMobile)
+      background-color inherit !important 
+
+.sidebar-link
+    color inherit !important
+
+.sidebar-link:hover
+    color green !important
+
+.nav-links
+    color white !important
+    background-color $backgroundColor !important
+
+.sidebar .nav-links
+    border-bottom 3px solid #f7fafc !important
+    
+.sidebar-links
+    color white !important
+    background-color $backgroundColor !important
+    @media screen and (min-width: $MQMobile)
+        color inherit !important
+        background-color white !important
+
+.sidebar-button
+    color white !important
+
+.navbar  
+    border-bottom none !important
+    background-color $backgroundColor !important
+    height 4rem
+    box-shadow 0px 1px 2px #22292f
+
+.navbar .links
+    background-color $backgroundColor !important
+    font-size 1.1em !important
+    color white !important
+    top 0.8rem !important
+
+.nav-links a.router-link-active
+    color inherit !important
+
+.sidebar .nav-links a
+    border-bottom 2px solid transparent !important
+
+.sidebar .nav-links a:hover
+    color white !important
+    border-bottom 2px solid #009f00 !important
+   
+.nav-links a:hover
+    color white !important
+    transition 0.1s
+
+.dropdown-item a.nav-link
+    color black
+
+.dropdown-item a.nav-link:hover
+    color green !important
+
+li.dropdown-item a.nav-link.router-link-exact-active.router-link-active
+    color green !important
+.navbar .site-name
+    top 0.1rem !important
+    font-weight 600 !important
+    color white !important
+/* 
+.nav-link, .repo-link , .nav-links .dropdown-title, .sidebar-links
+    font-family $secondaryFont !important
+
+.page
+    font-family $secondaryFont */
+
+.sw-update-popup>button
+    background-color $backgroundColor !important
+    color white !important
+.btn
+    transition 0.2s
+    border-color #22292f !important
+.btn:hover
+    transition 0.2s
+    border-color #009f00 !important
