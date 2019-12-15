@@ -60,3 +60,4 @@ If you like what you read, you can support us on several ways.
 
 -  We ❤️️ to hear your opinion! It helps us to improve our apps!
 -  Help us to reach our mindblowing goal! Be a [Patron!](https://www.patreon.com/coollabsio)
+

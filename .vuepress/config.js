@@ -1,7 +1,4 @@
 module.exports = {
-  postcss: {
-    plugins: [require('tailwindcss')(), require('autoprefixer')]
-  },
   title: 'coolLabs',
   head: [
     ['link', { rel: 'manifest', href: '/manifest.json' }],
@@ -22,6 +19,9 @@ module.exports = {
     ],
   },
   plugins: {
+    '@silvanite/tailwind': {
+      purgecss: { enabled: true }
+    },
     '@vuepress/pwa': {
       serviceWorker: true,
       updatePopup: {
