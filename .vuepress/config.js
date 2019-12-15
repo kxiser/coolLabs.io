@@ -10,13 +10,16 @@ module.exports = {
     search: false,
     logo: '/images/icons/android-chrome-192x192.png',
     nav: [
-      { text: 'Home 🏠', link: '/' },
-      { text: 'About us 👥', link: '/about' },
-      { text: 'Products 📦', link: '/products/' },
-      { text: 'Contact 📡', link: '/contact' },
-      { text: 'Blog 📚', link: 'https://dev.to/coollabsio' },
-      { text: 'GitHub 💾', link: 'https://github.com/coollabsio/' }
+      { text: 'Home', link: '/' },
+      { text: 'About', link: '/about/about.html' },
+      { text: 'Products', link: '/products/' },
+      { text: 'Contact', link: '/contact' },
+      { text: 'Blog', link: 'https://dev.to/coollabsio' },
+      { text: 'GitHub', link: 'https://github.com/coollabsio/' }
     ],
+    sidebar: {
+      '/about/': getGuideSidebar('coolLabs', 'Advanced'),
+    }
   },
   plugins: {
     '@silvanite/tailwind': {
@@ -30,4 +33,24 @@ module.exports = {
       }
     }
   }
+}
+
+function getGuideSidebar (groupA, groupB) {
+  return [
+    {
+      title: groupA,
+      collapsable: false,
+      children: [
+        'about',
+        'products',
+      ]
+    },
+    {
+      title: groupB,
+      collapsable: false,
+      children: [
+        'palinkapp',
+      ]
+    }
+  ]
 }

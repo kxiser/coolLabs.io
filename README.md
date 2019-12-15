@@ -27,7 +27,6 @@ meta:
           <h3 class="mb-2 text-base md:text-lg">Fabricating cool applications with your coollaboration!</h3>
           <div class="text-white">We <img class="inline-flex w-4 h-4" src="/images/facts/heart.svg"> ️️coding and the process of building cool, magical things just by sitting in front of huge displays and rolling our fingers on a keyboard.</div>
         </div>
-        <div class="w-1/5"></div>
       </div>
 </section>
 
@@ -67,7 +66,7 @@ meta:
     <fact
       emoji="opensource"
       title="Open Source"
-      description="We ❤️️ open source, so we are trying to open source as much as we can! <br><a class=&quot;font-bold text-coolred hover:underline&quot; href=&quot;https://github.com/coollabsio/&quot; class=&quot;font-mono&quot;>Check the code @ GitHub</a>"
+      description="We <img class='inline-flex w-4 h-4' src='/images/facts/heart.svg'> open source, so we are trying to open source as much as we can! <br><a class=&quot;font-bold text-coolred hover:underline&quot; href=&quot;https://github.com/coollabsio/&quot; class=&quot;font-mono&quot;>Check the code @ GitHub</a>"
     />
   </div>
 </div>
