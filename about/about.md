@@ -18,15 +18,17 @@ meta:
     content: coolLabs
 ---
 
-# About
+# About us <img class="inline-flex w-10 h-10" src="/images/facts/about.svg">
+ 
 
-## Transparent applications
+## Our Vision Is To...
 
-Our applications & services are independent of the [big five](https://gizmodo.com/c/goodbye-big-five) or any other 3rd parties.
+- Create applications & services **independently of the [big five](https://gizmodo.com/c/goodbye-big-five) or any other 3rd parties**,
+- In a **transparent & open way, with the community**,
+- **Without** collecting any personal information.
 
 <br/>
 
-**We code everything with our bare hands** in [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product) style.
 
 ### Why?
 Imagine for a moment that you do not need to think where your data is flowing while using an application, how it will be used, what would be sold to some 3rd parties?

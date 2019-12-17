@@ -11,7 +11,7 @@ module.exports = {
     logo: '/images/icons/android-chrome-192x192.png',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'About', link: '/about/about.html' },
+      { text: 'About us', link: '/about/about.html' },
       { text: 'Products', link: '/products/' },
       { text: 'Contact', link: '/contact' },
       { text: 'Blog', link: 'https://dev.to/coollabsio' },

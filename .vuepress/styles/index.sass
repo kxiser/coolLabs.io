@@ -2,16 +2,19 @@
 @tailwind components
 @tailwind utilities
 
-$primaryFont: 'Oxygen', sans-serif
+$primaryFont: 'Oxygen'
 $backgroundColor: #242629
 $accentColor: green
 $MQMobile: 800px
  
 
 body
-    font-family: $primaryFont
+  font-family: $primaryFont !important
 
-    
+ul,ol
+  list-style: disc
+  padding-left: 1.2em
+
 // All transitions
 .transition
   transition: 0.2s all
