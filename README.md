@@ -31,7 +31,7 @@ meta:
 </section>
 
 <div class="-mt-6 text-center">
-  <router-link to="/about/about.html" class="loginButton">About Us</router-link>
+  <router-link to="/about" class="loginButton">About Us</router-link>
 </div>
 
 <div class="flex flex-col px-2 py-4 bg-white">

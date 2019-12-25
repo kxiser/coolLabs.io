@@ -17,17 +17,12 @@ meta:
   - property: og:site_name
     content: coolLabs
 ---
-# Contact 📡
+# Contact
 
-### We ❤️️ to hear your opinion!
+### We <img class="inline-flex w-5 h-5" src="/images/facts/heart.svg"> to hear your opinion! Do not hesitate!
 <br/>
 
-<br/>
-
-<span class="text-xl font-bold">👨‍💻 DEV.to: [coollabsio](https://dev.to/coollabsio) </span>
-
-<span class="text-xl font-bold">🐤 Twitter: [@coollabsio](https://twitter.com/coollabsio)</span>
-
-<span class="text-xl font-bold">💬 Chat: [Discord](https://discord.gg/bvS3WhR)</span>
-
-<span class="text-xl font-bold">🐛 Bugreports: [GitHub](https://github.com/coollabsio)</span>
+#### DEV.to: [coollabsio](https://dev.to/coollabsio)
+#### Twitter: [@coollabsio](https://twitter.com/coollabsio)
+#### Chat: [Discord](https://discord.gg/bvS3WhR)
+#### Bugreports: [GitHub](https://github.com/coollabsio)

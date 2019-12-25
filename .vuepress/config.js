@@ -7,31 +7,32 @@ module.exports = {
     ['script', { src: 'https://cdn.coollabs.io/save.js', async: true, defer: true }]
   ],
   themeConfig: {
-    search: false,
+    search: true,
     logo: '/images/icons/android-chrome-192x192.png',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'About us', link: '/about/about.html' },
-      { text: 'Products', link: '/products/' },
+      { text: 'About us', link: '/about/' },
+      { text: 'Products', link: '/about/products.html' },
       { text: 'Contact', link: '/contact' },
       { text: 'Blog', link: 'https://dev.to/coollabsio' },
       { text: 'GitHub', link: 'https://github.com/coollabsio/' }
     ],
     sidebar: {
-      '/about/': getGuideSidebar('coolLabs', 'Advanced'),
+      '/about/': getGuideSidebar('coolLabs', 'Docs'),
+      '/docs/': getGuideSidebar('coolLabs', 'Docs'),
     }
   },
   plugins: {
     '@silvanite/tailwind': {
       purgecss: { enabled: true }
     },
-    '@vuepress/pwa': {
+/*     '@vuepress/pwa': {
       serviceWorker: true,
       updatePopup: {
         message: "We refreshed our cool site.",
         buttonText: "Load the latest version!"
       }
-    }
+    } */
   }
 }
 
@@ -41,15 +42,17 @@ function getGuideSidebar (groupA, groupB) {
       title: groupA,
       collapsable: false,
       children: [
-        'about',
-        'products',
+        '/about/',
+        '/about/products'
       ]
     },
     {
       title: groupB,
+      path:'/docs',
       collapsable: false,
       children: [
-        'palinkapp',
+        '/docs/palinkapp',
+        '/docs/coolnote',
       ]
     }
   ]
