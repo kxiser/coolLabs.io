@@ -7,6 +7,8 @@ module.exports = {
     ['script', { src: 'https://cdn.coollabs.io/save.js', async: true, defer: true }]
   ],
   themeConfig: {
+    searchPlaceholder: 'Search...',
+    lastUpdated: 'Last Updated',
     search: true,
     logo: '/images/icons/android-chrome-192x192.png',
     nav: [
@@ -51,9 +53,7 @@ function getGuideSidebar (groupA, groupB) {
       title: groupB,
       path:'/docs/',
       collapsable: false,
-      children: [
-        '/'
-      ]
+
     }
   ]
 }

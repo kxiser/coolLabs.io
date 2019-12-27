@@ -8,16 +8,20 @@ next: /terms.html
 Privacy is on of our main keystone. coolLabs ("we", "us", or "our") creating our services and applications to make place where your data is secured and not transferred to other companies. This is applicable for all coollabs.io domains and subdomains (for example note.coollabs.io) which we own and operate.   
 
 <br/>
+<br/>
+
 
 There could be links to external sites which are not operated by us, so please be aware!
 
 <br/>
 
-To make these services functional, we collect some basic information, but only those which are necessary for our own products to work, nothing more. We do as much as possible to anonymize your stored information. We constantly reviewing our stored informations and delete all needless data.
+To make these services functional, we collect some basic information, but only those which are necessary for our own products to work, nothing more. If technically possible, we anonymize this information.
 
 <br/>
 
-If you would like to know exactly what kind of data we collect and use for each product, read the corresponding [documentation](docs/).
+Each product has it's own list of collected data. Read the corresponding [list here](docs/).
+
+Feel free to contact us if you have any questions about data handling.
 
 <br/>
 
@@ -35,5 +39,6 @@ There is an option in every product, where you can delete your own information f
 <br/>
 
 If you continue to use our products, it means you are accepting this policy.
+
 
 </div>
