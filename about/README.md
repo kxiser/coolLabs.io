@@ -42,7 +42,7 @@ We believe, everyone has the right to control their own online information and w
 <br/>
 
 
-In the other hand, we doing it because love coding! <img class="inline-flex w-5 h-5" src="/images/facts/fire.svg">
+In the other hand, we love coding! <img class="inline-flex w-5 h-5" src="/images/facts/fire.svg">
 
 ## Who we are?
 
