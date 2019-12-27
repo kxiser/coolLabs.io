@@ -19,7 +19,7 @@ meta:
   - property: og:site_name
     content: coolLabs
 ---
-# Products 📦
+# Products
 ## Published Apps 🎉
 
 ### [PalinkApp](palinkapp.html) 

@@ -1,7 +1,4 @@
 module.exports = {
-  postcss: {
-    plugins: [require('tailwindcss')(), require('autoprefixer')]
-  },
   title: 'coolLabs',
   head: [
     ['link', { rel: 'manifest', href: '/manifest.json' }],
@@ -10,18 +7,25 @@ module.exports = {
     ['script', { src: 'https://cdn.coollabs.io/save.js', async: true, defer: true }]
   ],
   themeConfig: {
-    search: false,
+    search: true,
     logo: '/images/icons/android-chrome-192x192.png',
     nav: [
-      { text: 'Home 🏠', link: '/' },
-      { text: 'About us 👥', link: '/about' },
-      { text: 'Products 📦', link: '/products/' },
-      { text: 'Contact 📡', link: '/contact' },
-      { text: 'Blog 📚', link: 'https://dev.to/coollabsio' },
-      { text: 'GitHub 💾', link: 'https://github.com/coollabsio/' }
+      { text: 'Home', link: '/' },
+      { text: 'About us', link: '/about/' },
+      { text: 'Products', link: '/about/products.html' },
+      { text: 'Contact', link: '/about/contact.html' },
+      { text: 'Blog', link: 'https://dev.to/coollabsio' },
+      { text: 'GitHub', link: 'https://github.com/coollabsio/' }
     ],
+    sidebar: {
+      '/about/': getGuideSidebar('coolLabs', 'Docs'),
+/*       '/docs/': getGuideSidebar('coolLabs', 'Docs'), */
+    }
   },
   plugins: {
+    '@silvanite/tailwind': {
+      purgecss: { enabled: true }
+    },
     '@vuepress/pwa': {
       serviceWorker: true,
       updatePopup: {
@@ -30,4 +34,26 @@ module.exports = {
       }
     }
   }
+}
+
+function getGuideSidebar (groupA, groupB) {
+  return [
+    {
+      title: groupA,
+      collapsable: false,
+      children: [
+        '/about/',
+        '/about/products',
+        '/about/contact'
+      ]
+    },
+/*     {
+      title: groupB,
+      path:'/docs',
+      collapsable: false,
+      children: [
+        '/docs'
+      ]
+    } */
+  ]
 }

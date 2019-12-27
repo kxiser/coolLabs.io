@@ -8,11 +8,17 @@
   "private": true,
   "scripts": {
     "dev": "vuepress dev",
+    "serve": "vuepress dev",
     "build": "vuepress build"
   },
   "devDependencies": {
+    "@silvanite/vuepress-plugin-tailwind": "^1.2.0",
     "@vuepress/plugin-pwa": "^1.2.0",
-    "tailwindcss": "^1.1.2",
+    "animate.css": "^3.7.2",
+    "node-sass": "^4.13.0",
+    "sass-loader": "7.1.0",
+    "tailwindcss": "^1.1.4",
+    "vue-feather-icons": "^5.0.0",
     "vuepress": "^1.2.0"
   }
 }

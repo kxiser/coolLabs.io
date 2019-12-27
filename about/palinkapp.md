@@ -17,17 +17,17 @@ meta:
   - property: og:site_name
     content: coolLabs
 ---
-# Contact 📡
 
-### We ❤️️ to hear your opinion!
-<br/>
+# PalinkApp <span class="text-xl">[Try it!](https://palinkapp.coollabs.io/#/)</span>
+[Pálinka](https://en.wikipedia.org/wiki/P%C3%A1linka) alcohol by volume calculator.
 
-<br/>
+## Similar app
+- There are some, but not as cool and simple as this.
 
-<span class="text-xl font-bold">👨‍💻 DEV.to: [coollabsio](https://dev.to/coollabsio) </span>
+## Features
+- You can calculate:
+    - the required dilution
+    - the alcohol by volume
 
-<span class="text-xl font-bold">🐤 Twitter: [@coollabsio](https://twitter.com/coollabsio)</span>
-
-<span class="text-xl font-bold">💬 Chat: [Discord](https://discord.gg/bvS3WhR)</span>
-
-<span class="text-xl font-bold">🐛 Bugreports: [GitHub](https://github.com/coollabsio)</span>
+## For devs
+See the [code](https://github.com/coollabsio/palinkapp.coollabs.io)
