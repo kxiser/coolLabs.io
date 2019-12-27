@@ -49,10 +49,10 @@ function getGuideSidebar (groupA, groupB) {
     },
     {
       title: groupB,
-      path:'/docs',
+      path:'/docs/',
       collapsable: false,
       children: [
-        '/docs'
+        '/'
       ]
     }
   ]
