@@ -1,6 +1,6 @@
 <template>
-  <footer class="flex flex-col items-center justify-center py-10 text-xs">
-    <div class="flex flex-row items-center pb-5">
+  <footer class="flex flex-col items-center justify-center py-6 text-xs">
+    <div class="flex flex-row items-center pb-6">
       <a
         title="Our Github page"
         target="_blank"
@@ -27,6 +27,10 @@
         target="_blank"
         href="https://twitter.com/coollabsio"
       ><TwitterIcon class="navbar-icon" /></a>
+    </div>
+    <div class="flex flex-row items-center pb-2">
+      <router-link class="px-2 text-white" to="/privacy.html">Privacy Policy</router-link >
+      <router-link class="px-2 text-white" to="/terms.html">Terms of Service</router-link>
     </div>
     © 2019 coolLabs Technologies Bt. All Rights Reserved.
   </footer>

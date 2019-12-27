@@ -19,7 +19,7 @@ module.exports = {
     ],
     sidebar: {
       '/about/': getGuideSidebar('coolLabs', 'Docs'),
-/*       '/docs/': getGuideSidebar('coolLabs', 'Docs'), */
+      '/docs/': getGuideSidebar('coolLabs', 'Docs'),
     }
   },
   plugins: {
@@ -47,13 +47,13 @@ function getGuideSidebar (groupA, groupB) {
         '/about/contact'
       ]
     },
-/*     {
+    {
       title: groupB,
       path:'/docs',
       collapsable: false,
       children: [
         '/docs'
       ]
-    } */
+    }
   ]
 }

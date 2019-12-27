@@ -35,7 +35,7 @@ We believe, everyone has the right to control their own online information and w
 
 <br/>
 
-- No hard to understand privacy policies or terms & conditions. 
+- No hard to understand privacy policies - every application have a simple detailed list of collected information.
 - Not backed by any big companies - we are a bootstrapped company.
 - Not selling & sending any of your data to other companies or servers.
 
@@ -75,5 +75,5 @@ If you like what we are doing, you can support us in several ways.
 <br/>  
     
 -  Help us to reach our mindblowing goal!
-    - Buy our SaaS products! :)
+    - Buy our products! :)
     - Be a [Patron!](https://www.patreon.com/coollabsio)

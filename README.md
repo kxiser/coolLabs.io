@@ -25,7 +25,7 @@ meta:
         <div class="w-full px-6 text-center md:flex-1 md:text-left">
           <h1 class="mb-2 text-5xl leading-normal text-white ">coolLabs</h1>
           <h3 class="mb-2 text-base md:text-lg">Fabricating cool applications with your coollaboration!</h3>
-          <div class="text-white">We <img class="inline-flex w-4 h-4" src="/images/facts/heart.svg"> ️️coding and the process of building cool, magical things just by sitting in front of huge displays and rolling our fingers on a keyboard.</div>
+          <div class="text-white">We <img class="inline-flex w-4 h-4" src="/images/facts/heart.svg"> coding and the process of building cool, magical things just by sitting in front of huge displays and rolling our fingers on a keyboard.</div>
         </div>
       </div>
 </section>
