@@ -1,5 +1,4 @@
 ---
-prev: ./
 meta:
   - name: twitter:site
     content: '@coollabsio'
@@ -18,6 +17,17 @@ meta:
   - property: og:site_name
     content: coolLabs
 ---
+# Contact
 
-#  coolNote <span class="text-xl">[Try it!](https://note.coollabs.io)</span>
-DOCS here
+### We <img class="inline-flex w-5 h-5" src="/images/facts/heart.svg"> to hear your opinion! Do not hesitate!
+<br/>
+
+DEV.to: [coollabsio](https://dev.to/coollabsio)
+
+Twitter: [@coollabsio](https://twitter.com/coollabsio)
+
+Chat: [Discord](https://discord.gg/bvS3WhR)
+
+Bugreports: [GitHub](https://github.com/coollabsio)
+
+Email: <a href="mailto:hi@coollabs.io">hi@coollabs.io</a>

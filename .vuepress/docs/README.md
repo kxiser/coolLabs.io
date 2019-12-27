@@ -18,5 +18,4 @@ meta:
     content: coolLabs
 ---
 
-# PalinkApp <span class="text-xl">[Try it!](https://palinkapp.coollabs.io/#/)</span>
-DOCS here
+### Documentations  for our products will be here soon...

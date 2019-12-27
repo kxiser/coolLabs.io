@@ -19,10 +19,11 @@ meta:
 ---
 # Products 
 
-## [PalinkApp](palinkapp.html) 
-- Palinka alcohol by volume calculator => [Try it!](https://palinkapp.coollabs.io)
+## PalinkApp <span class="text-xl">[Try it!](https://palinkapp.coollabs.io/)</span>
+- Palinka alcohol by volume calculator. [More details...](palinkapp.html)
 
-## [coolNote](coolnote.html) 
-- A simple note / todo taking application => [Try it!](https://note.coollabs.io)
+## coolNote <span class="text-xl">[Try it!](https://note.coollabs.io)</span> 
+- A simple note / todo taking application. [More details...](coolnote.html)
 
-
+## coolAnalytics - WIP
+- A cool trend analytics for your websites, without tracking users.

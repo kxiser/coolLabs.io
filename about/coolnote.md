@@ -30,10 +30,10 @@ A simple note / todo taking application.
 - Freetext mode & todo mode
 - Tags
 - Real-time synchronization between your devices
+- Shareable notes for collaboration
 
 ## Roadmap
 - Markdown support
-- Shareable notes for collaboration
 
 ## For devs
 See the [code](https://github.com/coollabsio/note.coollabs.io)

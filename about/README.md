@@ -21,7 +21,7 @@ meta:
 
 # About us <img class="inline-flex w-10 h-10" src="/images/facts/about.svg">
  
-Our mission to empower people to use products and services that are:
+Our mission to empower people to use products that are:
 
 - __Independent of large companies or any 3rd parties__.
 - __Privacy focused__.
@@ -31,20 +31,31 @@ Our mission to empower people to use products and services that are:
 
 
 ## Why we doing it?
-We belive everyone has the right to control their own online information and we would like to provide such place to do so.
+We believe, everyone has the right to control their own online information and we would like to provide such place to do so with our products.
 
-In the other hand, we <img class="inline-flex w-5 h-5" src="/images/facts/heart.svg"> learning & coding! <img class="inline-flex w-5 h-5" src="/images/facts/fire.svg">
+<br/>
+
+- No hard to understand privacy policies or terms & conditions. 
+- Not backed by any big companies - we are a bootstrapped company.
+- Not selling & sending any of your data to other companies or servers.
+
+<br/>
+
+
+In the other hand, we doing it because love coding! <img class="inline-flex w-5 h-5" src="/images/facts/fire.svg">
 
 ## Who we are?
 
-Hi! <img class="inline-flex w-5 h-5" src="/images/facts/wave.svg"> We are just 2 independent developers from Hungary, who <img class="inline-flex w-5 h-5" src="/images/facts/heart.svg"> to code and decided to make SaaS products for the world in a bootstraped way! 
+__Hi!__ <img class="inline-flex w-5 h-5" src="/images/facts/wave.svg"> We are just 2 independent developers from Hungary, who <img class="inline-flex w-5 h-5" src="/images/facts/heart.svg"> to code and decided to make bootstrapped SaaS products for the people, with the people!
+
+<br/>
 
 - [Andras Bacsai](https://dev.to/andrasbacsai)
 - [Ferenc Gulyas](https://dev.to/gulyaasferenc)
 
 <br/>
 
-Regrettably, we are working on this mission after our day-time job, but one day, when we could do this in full time, it will be mindblowing. <img class="inline-flex w-5 h-5" src="/images/facts/rocket.svg">
+Regrettably, we are working on it after our day-time job, but one day, when we could do this in full time, it will be mindblowing. <img class="inline-flex w-5 h-5" src="/images/facts/rocket.svg">
 
 ## How we doing it?
 Are you interested in our work? We are blogging about it on DEV.to, [follow us](https://dev.to/coollabsio) there!
@@ -59,9 +70,10 @@ If you like what we are doing, you can support us in several ways.
     - Our [Github repositories](https://github.com/coollabsio)
     - Our [Discord server](https://discord.gg/bvS3WhR)
     - Our Twitter page: [@coollabsio](https://twitter.com/coollabsio)
+    - Our email: <a href="mailto:hi@coollabs.io">hi@coollabs.io</a>
   
 <br/>  
     
 -  Help us to reach our mindblowing goal!
-    - Be a [Patron!](https://www.patreon.com/coollabsio)
     - Buy our SaaS products! :)
+    - Be a [Patron!](https://www.patreon.com/coollabsio)

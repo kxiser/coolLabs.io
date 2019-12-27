@@ -13,26 +13,26 @@ module.exports = {
       { text: 'Home', link: '/' },
       { text: 'About us', link: '/about/' },
       { text: 'Products', link: '/about/products.html' },
-      { text: 'Contact', link: '/contact' },
+      { text: 'Contact', link: '/about/contact.html' },
       { text: 'Blog', link: 'https://dev.to/coollabsio' },
       { text: 'GitHub', link: 'https://github.com/coollabsio/' }
     ],
     sidebar: {
       '/about/': getGuideSidebar('coolLabs', 'Docs'),
-      '/docs/': getGuideSidebar('coolLabs', 'Docs'),
+/*       '/docs/': getGuideSidebar('coolLabs', 'Docs'), */
     }
   },
   plugins: {
     '@silvanite/tailwind': {
       purgecss: { enabled: true }
     },
-/*     '@vuepress/pwa': {
+    '@vuepress/pwa': {
       serviceWorker: true,
       updatePopup: {
         message: "We refreshed our cool site.",
         buttonText: "Load the latest version!"
       }
-    } */
+    }
   }
 }
 
@@ -43,17 +43,17 @@ function getGuideSidebar (groupA, groupB) {
       collapsable: false,
       children: [
         '/about/',
-        '/about/products'
+        '/about/products',
+        '/about/contact'
       ]
     },
-    {
+/*     {
       title: groupB,
       path:'/docs',
       collapsable: false,
       children: [
-        '/docs/palinkapp',
-        '/docs/coolnote',
+        '/docs'
       ]
-    }
+    } */
   ]
 }
