@@ -5,7 +5,11 @@ next: /terms.html
 # Privacy Policy
 
 <div class="text-justify">
-Privacy is on of our main keystone. coolLabs ("we", "us", or "our") creating our services and applications to make place where your data is secured and not transferred to other companies. This is applicable for all coollabs.io domains and subdomains (for example note.coollabs.io) which we own and operate.   
+Privacy & transparency are our main keystones. 
+
+<br/>
+
+coolLabs ("we", "us", or "our") creating our services and applications to make place where your data is secured and not transferred to other companies. This is applicable for all coollabs.io domains and subdomains (for example note.coollabs.io) which we own and operate.   
 
 <br/>
 <br/>
