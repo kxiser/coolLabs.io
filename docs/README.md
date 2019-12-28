@@ -57,7 +57,7 @@ __Why?__ To identify you, if we or you contact us.
 ### Avatar
 We **collect** and **store** your profile picture (a.k.a. avatar) in our database.
 
-__Why?__ To show it you through our applications, user experience improvement.
+__Why?__ To show it for you through our applications, to improve user experience.
 
 <hr/>
 
