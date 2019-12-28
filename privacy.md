@@ -8,6 +8,7 @@ next: /terms.html
 Privacy & transparency are our main keystones. 
 
 <br/>
+<br/>
 
 coolLabs ("we", "us", or "our") creating our services and applications to make place where your data is secured and not transferred to other companies. This is applicable for all coollabs.io domains and subdomains (for example note.coollabs.io) which we own and operate.   
 
