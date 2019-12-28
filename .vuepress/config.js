@@ -46,14 +46,18 @@ function getGuideSidebar (groupA, groupB) {
       children: [
         '/about/',
         '/about/products',
-        '/about/contact'
+        '/about/contact',
+        '/privacy.html',
+        '/terms.html'
       ]
     },
     {
       title: groupB,
-      path:'/docs/',
       collapsable: false,
-
+      children: [
+        '/docs/',
+        '/docs/coolnote'
+      ]
     }
   ]
 }

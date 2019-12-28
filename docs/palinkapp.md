@@ -21,10 +21,8 @@ meta:
 # PalinkApp <span class="text-xl">[Try it!](https://palinkapp.coollabs.io/#/)</span>
 [Pálinka](https://en.wikipedia.org/wiki/P%C3%A1linka) alcohol by volume calculator.
 
-## Similar app
-- There are some, but not as cool and simple as this.
-
 ## Features
+- Be able to use it offline, without any network connection.
 - You can calculate:
     - the required dilution
     - the alcohol by volume

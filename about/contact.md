@@ -17,9 +17,9 @@ meta:
   - property: og:site_name
     content: coolLabs
 ---
-# Contact
+# Contact <img class="inline-flex w-10 h-10" src="/images/facts/satellite.svg">
 
-### We <img class="inline-flex w-5 h-5" src="/images/facts/heart.svg"> to hear your opinion! Do not hesitate!
+### We <img class="inline-flex w-5 h-5" src="/images/facts/heart.svg"> to hear your opinion!
 <br/>
 
 DEV.to: [coollabsio](https://dev.to/coollabsio)

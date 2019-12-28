@@ -22,15 +22,15 @@ meta:
 #  coolNote <span class="text-xl">[Try it!](https://note.coollabs.io)</span>
 A simple note / todo taking application.
 
-## Similar app
-- Google Keep
+## What we collect?
+In addition to the [general data we collect during registration](/docs/#what-we-collect), we do not collect any personal or user specific information during the use of this application.
 
 ## Features
 - Be able to use it offline, without any network connection.
-- Freetext mode & todo mode
+- Freetext & todo mode
 - Tags
-- Real-time synchronization between your devices
 - Shareable notes for collaboration
+- Real-time synchronization between your devices and your shared the note with
 
 ## Roadmap
 - Markdown support

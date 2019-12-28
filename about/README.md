@@ -35,9 +35,12 @@ We believe, everyone has the right to control their own online information and w
 
 <br/>
 
-- No hard to understand privacy policies - every application have a simple detailed list of collected information.
-- Not backed by any big companies - we are a bootstrapped company.
+- No hard to understand privacy policies.
+  - If we collect or store any information about you, it is written down in our [docs](/docs/) section.
+- Not backed by any big companies.
+  - We are a bootstrapped company.
 - Not selling & sending any of your data to other companies or servers.
+  - We are not connected to any external services.
 
 <br/>
 
@@ -46,7 +49,7 @@ In the other hand, we love coding! <img class="inline-flex w-5 h-5" src="/images
 
 ## Who we are?
 
-__Hi!__ <img class="inline-flex w-5 h-5" src="/images/facts/wave.svg"> We are just 2 independent developers from Hungary, who <img class="inline-flex w-5 h-5" src="/images/facts/heart.svg"> to code and decided to make bootstrapped SaaS products for the people, with the people!
+__Hi!__ <img class="inline-flex w-5 h-5" src="/images/facts/wave.svg"> We are just 2 independent developers from Hungary, who <img class="inline-flex w-5 h-5" src="/images/facts/heart.svg"> to code and decided to make bootstrapped applications and services for the people, with the people!
 
 <br/>
 
