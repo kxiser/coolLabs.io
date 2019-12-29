@@ -18,7 +18,7 @@ meta:
     content: coolLabs
 ---
 
-# General 
+# General Data Collection Guidline
 
 You can find the product specific data collection guidelines in the following table:
 
