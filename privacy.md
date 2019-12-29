@@ -11,7 +11,7 @@ Privacy & transparency are our main keystones.
 <br/>
 <br/>
 
-coolLabs ("we", "us", or "our") creating our services and applications ("products") to make place where your online information is secured and not transferred to any extarnal company. This is applicable for all coollabs.io domains and subdomains, which we own and operate.   
+coolLabs ("we", "us", or "our") creating our services and applications ("products") to make place where your online information is secured and not transferred to any extarnal company. This is applicable for coollabs.io domain and all subdomains, which we own and operate.   
 
 <br/>
 <br/>
