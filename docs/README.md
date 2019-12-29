@@ -26,7 +26,7 @@ You can find the product specific data collection guidelines in the following ta
 
 | Data Collection Guidelines |
 | ------------- |
-| [coolNote](coolnote.html#what-we-collect)| 
+| [coolNote](coolNote.html#what-we-collect)| 
 
 </center>
 
