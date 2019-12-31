@@ -25,35 +25,46 @@ A cool trend analytics for your websites, without tracking users.
 ## What we collect?
 In addition to the [general data we collect during registration](/docs/#what-we-collect):
 
-### User Agent
-We **collect**, but store **anonymized** your browser's User Agent in our database.
+### How we measure unique visitors?
 
-__Why?__ To measure browser types.
+Our client side script generates a totally random ID for every visitors and store it in their browser's `localStorage`.
+
+This ID changes every month for every browser. 
+
+<br/>
+
+It does not have any relationship with any user / browser specific information, so we do not know which user has an ID at a given time.
+
+
+### User Agent
+We **collect**, but store **anonymized** User Agent in our database.
+
+__Why?__ To measure browser & os types.
 
 <br/>
 
 __What anonymized storing means?__
 
-We do not store the whole user agent, just:
+We do not store your user agent as it is. Instead we parse it & save only the important parts.
 
 <br/>
 
 - **Browser Name**, for visitor's browser analytics.
-- **Browser Version**, for future trends analytics.
-- **OS Name**, for future trend analytics.
-- **OS Version**, for future trend analytics.
+- **Browser Version**, for future trend analytics - not used yet.
+- **OS Name**, for future trend analytics - not used yet.
+- **OS Version**, for future trend analytics - not used yet.
 
 <hr/>
 
 ### Timezone
-We **collect** and **store** your Time Zone in our database.
+We **collect** and **store** your Timezone in our database.
 
 __Why?__ To measure the visitor's country.
 
 <hr/>
 
 ### Screen Width
-We **collect** and **store** your device's screen width `asd` in our database.
+We **collect** and **store** your device's screen width in our database.
 
 __Why?__ To measure the visitor's device type.
 
