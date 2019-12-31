@@ -56,7 +56,8 @@ function getGuideSidebar (groupA, groupB) {
       collapsable: false,
       children: [
         '/docs/',
-        '/docs/coolNote'
+        '/docs/coolNote',
+        '/docs/coolAnalytics'
       ]
     }
   ]
