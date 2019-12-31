@@ -27,10 +27,11 @@ You can find the product specific data collection guidelines in the following ta
 | Data Collection Guidelines |
 | ------------- |
 | [coolNote](coolNote.html#what-we-collect)| 
+| [coolAnalytics](coolAnalytics.html#what-we-collect)|
 
 </center>
 
-This section applies to anyone who creates an account in one of our products.
+The following section applies to anyone who creates an account in one of our products.
 
 ## What we collect?
 
@@ -50,7 +51,7 @@ We use a random generated ID internally for any further identification.
 ### Name
 We **collect** and **store** your name in our database.
 
-__Why?__ To identify you, if we or you contact us.
+__Why?__ To identify you, if you need to talk with us.
 
 <hr/>
 
