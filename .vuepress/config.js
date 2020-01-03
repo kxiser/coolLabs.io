@@ -15,6 +15,7 @@ module.exports = {
       { text: 'Home', link: '/' },
       { text: 'About us', link: '/about/' },
       { text: 'Products', link: '/about/products.html' },
+      { text: 'Docs', link: '/docs/' },
       { text: 'Contact', link: '/about/contact.html' },
       { text: 'Blog', link: 'https://dev.to/coollabsio' },
       { text: 'GitHub', link: 'https://github.com/coollabsio/' }
