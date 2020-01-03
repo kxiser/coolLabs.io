@@ -25,5 +25,5 @@ meta:
 ## coolNote <span class="text-xl">[Try it!](https://note.coollabs.io)</span> 
 - A simple note / todo taking application. [More details...](/docs/coolNote.html)
 
-## coolAnalytics - WIP
+## coolAnalytics - BETA
 - A cool trend analytics for your websites, without tracking users. [More details...](/docs/coolAnalytics.html)
