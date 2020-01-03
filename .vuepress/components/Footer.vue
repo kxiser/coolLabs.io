@@ -29,8 +29,24 @@
       ><TwitterIcon class="navbar-icon" /></a>
     </div>
     <div class="flex flex-row items-center pb-2">
-      <router-link class="px-2 text-white" to="/privacy.html">Privacy Policy</router-link >
-      <router-link class="px-2 text-white" to="/terms.html">Terms of Service</router-link>
+      <a
+        class="px-2 text-white hover:underline"
+        href="https://coollabs.io/privacy.html"
+        target="_blank"
+      >Privacy Policy</a>
+      <a
+        class="px-2 text-white hover:underline"
+        href="https://coollabs.io/terms.html"
+        target="blank"
+      >Terms of Service</a>
+      <a
+        class="px-2 text-white hover:underline"
+        href="https://patreon.com/coollabsio"
+        target="blank"
+      > Support us on Patreon <img
+        class="inline-flex w-3 h-3"
+        src="/images/facts/heart.svg"
+      ></a>
     </div>
     © 2019 coolLabs Technologies Bt. All Rights Reserved.
   </footer>

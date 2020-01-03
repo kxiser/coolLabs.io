@@ -45,14 +45,11 @@ __Why?__ To measure browser & os types.
 
 __What anonymized storing means?__
 
-We do not store your user agent as it is. Instead we parse it & save only the important parts.
+We do not store your user agent as it is. Instead we parse it & save only the required parts.
 
 <br/>
 
 - **Browser Name**, for visitor's browser analytics.
-- **Browser Version**, for future trend analytics - not used yet.
-- **OS Name**, for future trend analytics - not used yet.
-- **OS Version**, for future trend analytics - not used yet.
 
 <hr/>
 
@@ -70,8 +67,13 @@ __Why?__ To measure the visitor's device type.
 
 <hr/>
 
-## Features - WIP
+## Features
+- All incoming data are anonymized, so we are unable to track users!
+- Add a single file and you are done with the integration!
 
-## For devs - WIP
+## For devs
+See the [code](https://github.com/coollabsio/analytics.coollabs.io)
 
-## Why we created it? - WIP
+## Why we created it?
+
+We would like to see our visitors and we do not want to use Google Analytics.

@@ -44,12 +44,12 @@ meta:
     <fact
       emoji="data"
       title="Purge Your Data, Anytime!"
-      description="You own your data, we just make it readable for you!"
+      description="You own your data, we just make it useful for you!"
     />
-      <fact
-        emoji="package"
-        title="No Personal Information Collected"
-        description="We only collect the absolutely necessary information. Nothing personal."
+    <fact
+      emoji="package"
+      title="No Personal Information Collected"
+      description="We only collect the absolutely necessary information & anonymize everything, if technically possible! <br><a class=&quot;font-bold text-coolred hover:underline&quot; href=&quot;/docs&quot; class=&quot;font-mono&quot;>Check our Data Collection Guidelines</a>"
     />
   </div>
   <div class="flex flex-col items-center justify-center h-full my-auto lg:flex-row">
