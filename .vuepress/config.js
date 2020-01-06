@@ -10,7 +10,7 @@ module.exports = {
     searchPlaceholder: 'Search...',
     lastUpdated: 'Last Updated',
     search: true,
-    logo: '/images/icons/android-chrome-192x192.png',
+    logo: '/images/logos/coolLabs.svg',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'About us', link: '/about/' },

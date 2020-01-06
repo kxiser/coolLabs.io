@@ -19,7 +19,7 @@ meta:
     content: coolLabs
 ---
 
-#  coolNote <span class="text-xl">[Try it!](https://note.coollabs.io)</span>
+# coolNote <span class="text-xl">[Try it!](https://note.coollabs.io)</span>
 A simple note / todo taking application.
 
 ## What we collect?

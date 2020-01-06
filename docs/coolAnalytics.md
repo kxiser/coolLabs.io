@@ -19,8 +19,23 @@ meta:
     content: coolLabs
 ---
 
-#  coolAnalytics
+# coolAnalytics
 A cool trend analytics for your websites, without tracking users.
+
+## How to use?
+Include the following line at the end of your `<body>` tag:
+
+<br/>
+
+`<script async defer src="https://cdn.coollabs.io/save.js"></script>`  
+
+<br/>
+
+Go to the main page of [coolAnalytics](https://analytics.coollabs.io), add your new site & validate it with DNS or HTTP methods.
+
+<br/>
+
+That's all!
 
 ## What we collect?
 In addition to the [general data we collect during registration](/docs/#what-we-collect):
@@ -35,11 +50,14 @@ This ID changes every month for every browser.
 
 It does not have any relationship with any user / browser specific information, so we do not know which user has an ID at a given time.
 
+<br/>
+
+**Unfortunately, this means a cookie consent banner needs to be shown on your page.**
 
 ### User Agent
 We **collect**, but store **anonymized** User Agent in our database.
 
-__Why?__ To measure browser & os types.
+__Why?__ To measure browser types.
 
 <br/>
 
@@ -49,7 +67,7 @@ We do not store your user agent as it is. Instead we parse it & save only the re
 
 <br/>
 
-- **Browser Name**, for visitor's browser analytics.
+**Only the browser's name is stored.**
 
 <hr/>
 

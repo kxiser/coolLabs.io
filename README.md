@@ -21,7 +21,7 @@ meta:
 
 <section class="z-50 px-2 pb-6 text-white bg-coolnote md:px-0">
       <div class="container flex flex-wrap items-center h-full py-8 mx-auto">
-        <img src="/coollabs.svg" height="150" width="150" class="mx-auto mb-4 md:mx-0 md:mb-0" style="border:none !important;">
+        <img src="/images/logos/coolLabs.svg" height="150" width="150" class="mx-auto mb-4 md:mx-0 md:mb-0" style="border:none !important;">
         <div class="w-full px-6 text-center md:flex-1 md:text-left">
           <h1 class="mb-2 text-5xl leading-normal text-white ">coolLabs</h1>
           <h3 class="mb-2 text-base md:text-lg">Fabricating cool applications with your coollaboration!</h3>
